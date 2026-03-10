@@ -1,7 +1,5 @@
 # Motion Analysis Simulation
 
-Motion detection and velocity estimation using an ultrasonic distance sensor.
-
 This project demonstrates motion detection and basic velocity estimation 
 using an ultrasonic distance sensor. The system measures distance changes 
 over time to estimate movement direction and speed.
